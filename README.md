@@ -25,15 +25,15 @@
 
 ## 📚 Certifications
 
-- 🏆 [Google Data Analytics – Google/Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)  
+- 🏆 [Google Data Analytics – Google/Coursera](https://coursera.org/share/0da8395fe45c8190015861bb14472ed7)  
   *Credential ID: WTFG6DLAPBWP*
 
-- 📊 [Career Essentials in Data Analysis – Microsoft & LinkedIn](https://www.linkedin.com/learning/career-essentials-in-data-analysis-by-microsoft-and-linkedin)  
+- 📊 [Career Essentials in Data Analysis – Microsoft & LinkedIn](https://www.linkedin.com/learning/certificates/9e23fcdd1411042a20507888e5690e1d4412d46b50163c77c81e08f20acc4d8b?trk=share_certificate)  
 
-- 🐍 [Data Analysis with Python – freeCodeCamp](https://www.freecodecamp.org/certification/fccd5325838-caa4-44fd-86f3-8bf37ee50111-dawp/data-analysis-with-python)  
+- 🐍 [Data Analysis with Python – freeCodeCamp](https://freecodecamp.org/certification/fccd5325838-caa4-44fd-86f3-8bf37ee50111/data-analysis-with-python-v7)  
   *Credential ID: fccd5325838-caa4-44fd-86f3-8bf37ee50111-dawp*
 
-- 🧠 [Data Science with Python – Great Learning](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-with-python)
+- 🧠 [Data Science with Python – Great Learning](https://www.mygreatlearning.com/certificate/YEGYJICO)
  
 - 🧩 Power BI Essential Training – LinkedIn Learning *(in progress)*
 
